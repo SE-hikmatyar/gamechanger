@@ -1,2 +1,2 @@
 this is the feature branch
-this is main branch
+this is a resolved changed after merging the conflict
